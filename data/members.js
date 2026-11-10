@@ -58,7 +58,7 @@ const MEMBERS = [
   },
   {
     id: "jen-eunychicken",
-    name: "Jennifer Kim",
+    name: "Jen the Hen",
     role: "UI & Character Artist",
     headshot: "assets/img/members/jen-eunychicken.png",
     bio: "Designer and Illustrator, Figma enjoyer",

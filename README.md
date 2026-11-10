@@ -11,7 +11,7 @@ data/games.js         Game entries
 data/members.js       People entries   <- add teammates here
 assets/css/style.css  All styling
 assets/js/main.js     Renders the cards from the data files
-assets/img/brand/     Logo, banner, hero crop, mascot, favicons
+assets/img/brand/     Logo, banner, hero crop, social card (og), mascot, favicons
 assets/img/games/     Game cover art (16:9)
 assets/img/members/   Headshots (square)
 ```

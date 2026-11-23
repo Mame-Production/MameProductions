@@ -12,6 +12,23 @@
 
 const GAMES = [
   {
+    id: "53-minutes-the-board-game",
+    title: "53 Minutes: The Board Game",
+    studio: true,
+    year: "2026",
+    status: "In development",
+    platforms: ["Windows", "macOS"],
+    blurb: "Renko has a 53-minute train ride to Tokyo, and Maribel has a new board game to fill it.",
+    detail: "A Battleship-like strategy board game where every shot reveals the board tile by tile. Use special abilities across 53 levels, unlock more Touhou characters, and read a short visual novel story along the way. Made for Touhou Fan Game Jam 17 around ZUN's “Blue Sea of 53 Minutes”; a heavy work in progress with updates rolling out. No generative AI used.",
+    tags: ["Strategy", "Board Game", "Visual Novel", "Turn-based", "Touhou", "Singleplayer"],
+    credits: ["Oriku", "ShioriFukada", "eunychicken", "Ivy Yao", "Lu", "Kej", "Kaltiro"],
+    cover: "assets/img/games/53-minutes-the-board-game.jpg",
+    links: [
+      { label: "Play on itch.io", url: "https://oriku.itch.io/53-minutes-the-board-game" },
+      { label: "Touhou Jam 17 entry", url: "https://itch.io/jam/touhou-jam-17/rate/5422278" }
+    ]
+  },
+  {
     id: "touhou-7-colored-qualia",
     title: "Touhou: 7 Colored Qualia",
     studio: true,
